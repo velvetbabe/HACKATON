@@ -1,0 +1,54 @@
+/*Global*/
+*{
+	font-family: "proxima nova";
+}
+
+@font-face{
+	font-family: "proxima nova bold";
+	src: url(../fonts/proxima-nova/proximanova-bold-webfont.ttf);
+}
+@font-face{
+	font-family: "proxima nova light" ;
+	src: url(../fonts/proxima-nova/proximanova-light-webfont.ttf);
+}
+@font-face{
+	font-family: "proxima nova italic";
+	src: url(../fonts/proxima-nova/proximanova-regitalic-webfont.ttf);
+}
+@font-face{
+	font-family: "proxima nova";
+	src: url(../fonts/proxima-nova/proximanova-regular-webfont.ttf);
+}
+@font-face{
+	font-family: "proxima nova semibold";
+	src: url(../fonts/proxima-nova/proximanova-Semibold.otf);
+}
+
+
+.pd-1-3{
+	padding: 1% 3%;
+}
+.pd-2{
+	padding: 2%;
+}
+.pd-1-3{
+	padding: 1% 3%;
+}
+.pd-2{
+	padding: 2%;
+}
+.pd-3-5 {
+	padding: 5% 5%;
+}
+.bg-img-block{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.w-100 {
+	width:100%;
+}
+.t-white{
+	color:white;
+
+}

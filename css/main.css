@@ -1,0 +1,32 @@
+/*section hero*/
+.hero{
+	background-image:url('../img/hero-image.jpg');
+	height:420px;
+	background-size:100% 100%; 
+	position: relative;
+}
+.hero h1 {
+	font-weight: lighter;
+	font-size:312.5%;
+	text-align: center;
+}
+.hero-text-d{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -55px;
+	margin-left: -322px;
+}
+.hero-text-t{
+	position: absolute;
+	padding: 10% 30%;
+	
+}
+.pto{
+	font-size: 312.5%;
+}
+.hero-text{
+	position: absolute;
+	padding: 22% 10%;
+	
+}
