@@ -1,27 +1,11 @@
-/* header -Desktop*/
-.header-d{
-	position: relative;
-}
-.header-d nav{
-    float: right;
-    display: inline;
-    width:20%;
-	text-align:right;
-}
-.header-d nav a{
-	padding:0 2%;
-    display: inline;
-    color:#002366;
-}
+.logo-header{
+	width: 70%;
+	height: 2.5em;
 
-/*header tablet*/
-.header-bar{
-	float:right;
 }
-.logo {
-	height: 55px;
-	width: 40%;
-	background-image: url('../img/logo-iconos/sentient-logo.png');
-	display: inline-block;
+.logo{
+	margin:auto;
 }
-
+.header{
+	
+}

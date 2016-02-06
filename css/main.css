@@ -30,3 +30,20 @@
 	padding: 22% 10%;
 	
 }
+header{
+	background-color: black;
+}
+.logo {
+	border: 1px solid green;
+}
+
+@media screen and (max-width: 480px) {
+    .navbar-brand img{
+		padding-right: 15px;
+		padding-left: 15px;
+		position: relative;
+
+    }
+ 
+}
+        
