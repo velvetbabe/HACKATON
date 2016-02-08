@@ -113,9 +113,9 @@ header{
 	 }
 	}
 /*hero-text para desktop*/
-@media (max-width:780px){
-	.hero-text  p{
-	 text-align: center;
-	 top:300%;
-	}
+
+section.herotext1{
+   top:30px;
+   
+	
 }
