@@ -39,9 +39,37 @@
 .pd-2{
 	padding: 2%;
 }
-.pd-3-5 {
+.pd-5-5 {
 	padding: 5% 5%;
 }
+.pd-0-19{
+	padding: 0 19%;
+}
+.pd-0-15{
+	padding: 0 15%;
+}
+.pd-5-0{
+	padding: 5% 0;
+}
+.pt-3{
+	padding-top: 3%;
+}
+.pd-5-35{
+	padding: 5% 35%;
+}
+.pd-0-36{
+	padding: 0 14%;
+}
+.pt-8{
+	padding-top: 8%;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.pt-5{
+	padding-top: 5%;
+}
+
 .bg-img-block{
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -52,8 +80,18 @@
 }
 .t-white{
 	color:white;
-
 }
 .t-center{
-	
+ text-align: center;
+
+}
+.text-color{
+ color:#002366;
+ padding-left: 
+
+}
+.f-light{
+	font-family:"proxima nova light" ;
+	color: #002366;
+
 }
