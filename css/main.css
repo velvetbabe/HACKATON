@@ -11,13 +11,6 @@
 	padding:0;
 	font-family: "proxima nova light";
 }
-@media(min-width:480px){
-.title{
-	font-size: 3.6em;
-	padding:0;
-	font-family: "proxima nova light";
-}
-}
 
 .text-h{
 	padding-top: 8%;
@@ -53,6 +46,12 @@ input{
 	color:white;
 	padding: 1% 255%;
 }
+
+.footer-imagenbox{
+text-align: center;
+}
+
+
 
 /*logo para moviles*/
 @media screen and (max-width: 480px) {
@@ -118,7 +117,7 @@ input{
 @media(max-width:480px){
 
 .text-h h1{
-margin-left:4%;
+padding-left:5px;
 text-align: center;
 font-size:150%;
 }
@@ -128,9 +127,15 @@ text-align: center;
 }
 
 .heroimg{
-margin-left:94px;
-margin-top:10%;
-
+margin-left:20px;
+ }
+}
+@media(min-width:480px){
+.title{
+	font-size: 3.6em;
+	padding:0;
+	font-family: "proxima nova light";
+ }
 }
 
 @media(max-width:780px){
@@ -145,8 +150,6 @@ text-align: center;
 
 .heroimg{
 margin-left:12%;
-margin-top:10%;
-}
+ }
 
-}
 

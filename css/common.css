@@ -5,6 +5,24 @@
 .logo{
 	margin:auto;
 }
-.header{
-	
+
+footer{
+margin-top:2%;
+}
+footer h5{
+color:#606060;
+font-size:120%;
+margin-top:0;
+}
+footer p{
+text-align: center;
+margin-right:8%;
+margin-top:1em;
+}
+
+.legal{
+	color:#979797;
+}
+.legal_h{
+margin-top:1em;
 }
